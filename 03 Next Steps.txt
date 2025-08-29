@@ -1,16 +1,15 @@
-Once you have gotten a handle on Orca, the GUI, and Git you will need to branch this main directory to create your own sub-repo. This branch is where you will commit your calculations, bibliography, and articles. It is likely desireable to further branch your own sub repo where necessary so as to keep your work organized.
+Once you have gotten a handle on Git, have read a first pass of the posted article, and have started your literature search you will need to branch this main directory to create your own sub-repo. This branch is where you will commit your calculations, bibliography, and articles. It is likely desireable to further branch your own sub repo where necessary so as to keep your work organized.
 Please label your main branch in the format:
-Date-Substrate1-Substrate2-Initials
+Date-Target-Initials
 Example: 
-2025FA-Glycerol-Pyruvate-JJK
-My sub branches/directories would look like:
-2025FA-Glycerol
-2025FA-Pyruvate
+2025FA-2025 Zhu-Chen Self-densified super-strong wood-JJK
+My sub branches/directories might look like:
+2025FA-First Attempt Replication (Failed)
+2025FA-First Attempt Replication (Success)
 
-Within the 2025FA-Glycerol-Pyruvate-JJK branch I would likely have several files like:
-2025-08 Notes
-2025-09 Notes
-GUI Notes
+Within the 2025FA-2025 Zhu-Chen Self-densified super-strong wood-JJK branch I would likely have several files like:
+2025-08-30 Lab book.pdf
+2025-09-05 Lab book.pdf
 Proposed SoP 1
 Proposed SoP 2 (branch of 1)
 
