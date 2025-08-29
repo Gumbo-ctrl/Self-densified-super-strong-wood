@@ -1,4 +1,4 @@
-This will be a up to date list of the current target procedures we have come up with.
+This will be a up to date list of the current target procedures we have come up with. It is preferrable to run several target procedures at the same time so that you waste less time in "waiting for" steps.
 
 Current (To be attempted)
 Replicate 2025 Zhu-Chen Self-densified super-strong wood
