@@ -5,4 +5,5 @@ To learn how to do so please check out:
 2) GitHub Docs https://docs.github.com/en/get-started
 
 Introductions:
+Evan Huling, ehuling04@gmail.com, Self-densified Super-Strong Wood (Semester 1)
 Dr. Joshua J. Klaassen, joshua.john.klaassen@gmail.com, CU Research (+Everything below)
